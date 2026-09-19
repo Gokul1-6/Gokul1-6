@@ -4,286 +4,165 @@
 
 ### Artificial Intelligence & Data Science Student
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=200&section=header&text=GOKUL%20A&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:0066FF,100:00BFFF&height=180&section=header&text=GOKUL%20A&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Student;Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Python+Developer;Building+AI+Solutions+for+Real-World+Problems"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Computer+Vision;Python+%7C+Java+%7C+SQL;Building+AI-Based+Projects;Always+Learning+%26+Building" />
+</p>
 
-<br><br>
+<p>
+  <a href="https://github.com/Gokul1-6">
+    <img src="https://img.shields.io/badge/GitHub-Gokul1--6-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/problemset/">
+    <img src="https://img.shields.io/badge/LeetCode-Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://github.com/Gokul1-6">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/feed/">
-<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/problemset/">
-<img src="https://img.shields.io/badge/LeetCode-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:gokulabg123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="./GOKUL%20---%20Resume%20NEW.pdf">
+    <img src="https://img.shields.io/badge/📄%20VIEW%20%26%20DOWNLOAD%20RESUME-007BFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Hi! I'm **GOKUL A**, a B.Tech student specializing in
-**Artificial Intelligence & Data Science** at **Karpagam College of Engineering**.
+🎓 B.Tech student specializing in **Artificial Intelligence & Data Science**.
 
-I'm passionate about using technology and data to build practical solutions
-for real-world problems.
+💡 Interested in building practical solutions using **Artificial Intelligence, Machine Learning, Computer Vision and Web Development**.
 
-### 🚀 What I'm Interested In
+🚀 Experienced in developing academic AI projects using **Python, OpenCV, Django, MySQL and Scikit-learn**.
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Science
-- 💻 Web Development
-- 🗄️ SQL & Databases
-- 🧩 Problem Solving
+🧠 Currently improving my skills in **Programming, Data Structures, Machine Learning and AI-based application development**.
 
-I enjoy learning new technologies, developing AI-based applications,
-working on academic projects, solving technical problems, and continuously
-improving my development skills.
+🎯 Looking for opportunities to apply my technical skills through **internships, projects and real-world problem solving**.
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|---|---|---:|---:|
-| **B.Tech – Artificial Intelligence & Data Science** | Karpagam College of Engineering | 2024 – Present | **CGPA: 6.7** |
+| Degree | Institution | Duration | Details |
+|---|---|---|---|
+| **B.Tech – Artificial Intelligence & Data Science** | Karpagam College of Engineering | Sep 2024 – Present | **CGPA: 6.7** |
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
-</p>
-
-### 🌐 Web Development
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,django"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Data Science
 
-- Machine Learning
-- Data Preprocessing
-- Pandas
-- NumPy
-- Scikit-learn
-- OpenCV
-- Computer Vision
-
-### 🛠️ Tools & Platforms
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-0066FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-- Google Colab
+### 🌐 Web Development & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 👁️ Face Morphing Detection System
+### 🔍 Face Morphing Detection System
 
-An AI-based system developed to identify genuine and morphed facial
-images using image-processing and machine-learning techniques.
+**Technologies:** Python • OpenCV • Machine Learning
 
-**Technologies:**
-
-`Python` `OpenCV` `Machine Learning`
-
-### 🔐 Fake Vote Detection System
-
-A secure web-based voting system designed to improve voting reliability
-through authentication and duplicate-vote detection.
-
-**Key Features:**
-
-- 🔑 User authentication
-- 🛡️ Duplicate-vote prevention
-- ✅ Automated vote validation
-- 📊 Automated vote counting
-
-**Technologies:**
-
-`Python` `Django` `MySQL`
+- Developed a **Face Morphing Detection System** using Python, OpenCV and Machine Learning.
+- Applied image-processing techniques to identify **genuine and morphed facial images**.
+- Focused on detecting manipulated facial images using computer vision techniques.
 
 ---
 
-## 🏆 Certifications
+### 🗳️ Fake Vote Detection System
 
-- 🐍 Cisco – Python Programming
-- 💻 Infosys Springboard Certification
-- 🍃 MongoDB Certification
-- 🤖 Supervised Learning in Machine Learning
-- 🐍 IIT Bombay – Python Completion Certificate
+**Technologies:** Python • Django • MySQL
 
----
-
-## 🧠 Areas of Interest
-
-<div align="center">
-
-| 🤖 Artificial Intelligence | 🧠 Machine Learning |
-|---|---|
-| 👁️ Computer Vision | 🌐 Web Development |
-| 📊 Data Science | 💻 Software Development |
-
-</div>
+- Built a secure **web-based voting system** using Django.
+- Implemented **user authentication** and duplicate-vote detection.
+- Added automated vote validation and vote counting using MySQL.
+- Implemented duplicate-vote prevention.
+- Tested project modules, corrected errors and improved system performance.
 
 ---
 
-## 🧩 Problem Solving
+## 📜 Certifications
 
-I continuously work on improving my programming and problem-solving
-skills through coding practice.
-
-<div align="center">
-
-<a href="https://leetcode.com/problemset/">
-
-<img src="https://img.shields.io/badge/LeetCode-Practice-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-</div>
+- 🐍 **Cisco Python Programming**
+- 🎓 **Infosys Springboard**
+- 🍃 **MongoDB**
+- 🤖 **Supervised Learning in Machine Learning**
+- 🐍 **IIT Bombay Python Certificate**
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Areas of Interest
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokul1-6&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-007BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-00A8E8?style=for-the-badge"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul1-6&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gokul1-6&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gokul1-6/Gokul1-6/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-## 🎯 Career Focus
-
-Currently focusing on strengthening my skills in:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Science
-- 💻 Data Structures & Algorithms
-- 🌐 Web Development
-- 🚀 Real-World AI Projects
-
-### 💡 Career Goal
-
-**Aspiring AI Engineer**
-
-My goal is to build intelligent, practical, and technology-driven
-solutions that address meaningful real-world problems.
+</p>
 
 ---
 
 ## 💪 Strengths
 
-- 🧩 Problem Solving
-- 🤝 Teamwork
-- ⚡ Quick Learning
-- 🔄 Adaptability
+<p align="center">
+
+| 🧩 Problem Solving | 🤝 Teamwork | ⚡ Quick Learning | 🔄 Adaptability |
+|---|---|---|---|
+| Finding practical solutions | Collaborative development | Learning new technologies | Adapting to new challenges |
+
+</p>
 
 ---
 
-## 🌐 Languages
+## 🏆 Professional Focus
 
-- 🇮🇳 Tamil
-- 🇬🇧 English
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-<a href="./GOKUL_Resume.pdf">
-
-<img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-1D4ED8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:gokulabg123@gmail.com">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/feed/">
-<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Gokul1-6">
-<img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/problemset/">
-<img src="https://img.shields.io/badge/LeetCode-1D4ED8?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 "Learning today. Building tomorrow. Creating impact."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer"/>
-
-</div>
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Computer Vision
+        ↓
+Data Science
+        ↓
+AI-Based Applications
+        ↓
+Real-World Problem Solving
