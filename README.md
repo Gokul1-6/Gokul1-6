@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💙 GOKUL A
+#  GOKUL A 💙
 
 ### Artificial Intelligence & Data Science Student
 
